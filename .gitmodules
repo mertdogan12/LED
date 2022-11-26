@@ -1,0 +1,3 @@
+[submodule "daemon"]
+	path = daemon
+	url = git@github.com:mertdogan12/led-daemon.git
