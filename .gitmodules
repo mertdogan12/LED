@@ -4,3 +4,6 @@
 [submodule "arduino"]
 	path = arduino
 	url = git@github.com:mertdogan12/led-arduino.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:mertdogan12/led-cli.git
